@@ -83,7 +83,7 @@ ii. [`PAIRING CODE 1 `](https://the-flash-md-sessions.onrender.com/pair) OR [`PA
 
 #### SUPPORT THE PROJECT 
 1. **JOIN OUR SUPPORT GROUP**
-- <a href="https://chat.whatsapp.com/IH4xWuVTGpf7ibfzC3h6LM" target="_blank">
+- <a href="https://chat.whatsapp.com/F79Vgn5wPEbIiy8ZRYgRRV" target="_blank">
     <img alt="CLICK HERE" src="https://img.shields.io/badge/ JOIN NOW 🤟 -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   
