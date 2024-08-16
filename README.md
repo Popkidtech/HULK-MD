@@ -5,7 +5,7 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +HULK-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+POP+KID;RELEASED+22.8.2024" alt="Typing SVG" /></a>
   </p>
-    <img alt="HULK-MD" width="700" height="300" src="https://telegra.ph/file/3f985014b51b3cf335bfe.jpg">
+    <img alt="HULK-MD" width="700" height="300" src="https://telegra.ph/file/74b0a64a9725b080d79c3.png">
 <p align="center">
 <p align="center">
 <a href="https://github.com/Popkidtech/HULK-MD"><img title="Author" src="https://img.shields.io/badge/HULK_MD-black?style=for-the-badge&logo=github"></a>
